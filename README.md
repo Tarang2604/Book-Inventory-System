@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# React + Vite
+The Book Inventory Management System is a simple and efficient web-based application designed to manage a collection of books. It allows users to add, update, view, and delete book records, providing an organized way to keep track of inventory. This project is perfect for beginners learning HTML, CSS, JavaScript, and Node.js/NPM based project setups.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Add Books – Quickly add new books with title, author, genre, and quantity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View Inventory – Display all books in a structured table format.
 
-## React Compiler
+Update Books – Edit book information when needed.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Delete Books – Remove books from the inventory with a single click.
 
-## Expanding the ESLint configuration
+Responsive Design – Works on desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Book-Inventory-System
->>>>>>> a675897449d2edcddb3d496ab89c260d1b9567c2
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend / Runtime: Node.js (if applicable)
+
+Package Management: NPM
+
+Data Storage: JSON / Local storage (for mock inventory)
